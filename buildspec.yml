@@ -6,3 +6,10 @@ phases:
 artifacts:
   files:
     - html5up-dopetrope/*
+    html5up-dopetrope/images/*
+    - html5up-dopetrope/assets/css/images/*
+    - html5up-dopetrope/assets/css/*
+    - html5up-dopetrope/assets/fonts/*
+    - html5up-dopetrope/assets/js/*
+    - html5up-dopetrope/assets/sass/lib/*
+    - html5up-dopetrope/assets/sass/*
