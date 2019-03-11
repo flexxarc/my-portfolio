@@ -1,5 +1,8 @@
-import 'react-dom'
+/*jshint esversion: 6 */
 
-console.log("Loaded react-dom");
 
-console.log("Webpack works!");
+import React from 'react';
+import ReactDOM from 'react-dom';
+import ExampleWorks from './example-work';
+
+ReactDOM.render(<ExampleWork />, document.getElementById('example-work'));
