@@ -8,6 +8,6 @@ class ExampleWork extends React.Component {
     return (
       <section>It works!</section>
     )
-  }
-}
+  };
+};
 export default ExampleWork;

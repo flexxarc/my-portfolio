@@ -4,7 +4,7 @@ phases:
     commands:
       - npm install
   build:
-    commands: 
+    commands:
       - npm run webpack
 artifacts:
   files:
@@ -21,3 +21,4 @@ artifacts:
     - Tech.html
     - Work_History.html
     - dist/bundle.js
+    - js/example-work.js
