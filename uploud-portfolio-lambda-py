@@ -4,6 +4,7 @@ import zipfile
 import StringIO
 import mimetypes
 
+#testing
 def lambda_handler(event, context):
     sns = boto3.resource('sns')
     topic = sns.Topic('arn:aws:sns:us-east-1:194655109073:PortfolioDeployment')
